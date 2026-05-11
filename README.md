@@ -11,6 +11,7 @@ Training and test were performed on a system equipped with a 12th Gen Intel(R) C
 
 ### R packages
 
+The analysis was conducted using **R version 4.4.0** with the following package versions:
 
 
 
