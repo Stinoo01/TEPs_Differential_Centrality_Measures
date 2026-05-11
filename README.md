@@ -1,5 +1,8 @@
 # Tumor Educated Platelets (TEPs) Differential Centrality Measures
+
 This repository contains the code for the analysis of differential centrality measures in tumor educated platelets
+
+The file `main.R` contains the code for conducting the analysis and creating train and test data.
 
 ## System Requirements
 
