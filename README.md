@@ -2,6 +2,8 @@
 
 This repository contains the code for the analysis of differential centrality measures in tumor educated platelets
 
+The folder `Data` contains the data counts used in this study. It is possible to download original raw data to the respective GEO series.
+
 The file `main.R` contains the code for conducting the analysis and creating train and test data.
 
 The file `randomization.ipynb` contains the code for randomization of AUC values. 
