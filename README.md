@@ -43,13 +43,10 @@ The analysis was conducted using **R version 4.4.0** with the following package 
 
 The model was trained and tested using **Python 3.12.3** with the following package versions:
 
-- `numpy`: 1.26.4  
+- `python`: 3.12.3  
 - `pandas`: 2.2.2  
-- `matplotlib`: 3.9.2  
-- `seaborn`: 0.13.2  
+- `numpy`: 1.26.4  
 - `scikit-learn`: 1.5.1  
 - `xgboost`: 3.0.0  
-- `lightgbm`: 4.6.0  
-- `torch`: 2.7.0+cpu  
-- `statsmodels`: 0.14.2  
-- `mygene`: 3.2.2
+- `catboost`: 1.2.8  
+- `matplotlib`: 3.9.2
