@@ -4,7 +4,7 @@ This repository contains the code for the analysis of differential centrality me
 
 The file `main.R` contains the code for conducting the analysis and creating train and test data.
 
-The file `randomization.ipybp` contains the code for randomization of AUC values. 
+The file `randomization.ipynb` contains the code for randomization of AUC values. 
 
 ## System Requirements
 
