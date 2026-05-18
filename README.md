@@ -10,6 +10,8 @@ The folder `Data` contains the data counts used in this study. It is possible to
 
 The file `main.R` contains the code for conducting the analysis and creating train and test data.
 
+The folder `classification` contains the code for replicating the classification analysis.
+
 The file `randomization.ipynb` contains the code for randomization of AUC values. 
 
 ## System Requirements
