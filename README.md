@@ -1,8 +1,6 @@
 # Tumor Educated Platelets (TEPs) Differential Centrality Measures
 
-<p align="center">
-  <img src="diff_centrality_measures.png" width="850">
-</p>
+
 
 This repository contains the code for the analysis of differential centrality measures in tumor educated platelets
 
